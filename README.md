@@ -17,6 +17,8 @@ Results Compilation: Real-time tallying for quick and accurate election results.
 
 Open Source: Collaborative development with well-documented code for community contribution.
 
+Missed Vote Alert: Incorporates a feature to signal or alert in case of a missed vote, ensuring all votes are accounted for.
+
 Hardware Requirements: Clearly outlines the necessary Raspberry Pi models and peripherals.
 
 Software Requirements: Specifies required software dependencies and provides installation instructions.
