@@ -39,7 +39,7 @@ cd Digital-Voting-System-Using-Raspberry-Pi
   1. Insert Voter Data:
      - Run `insert.py` to insert the voter data into the system.
   2. Initialize Facial Recognition and Run the Voting System:
-     - Execute face.py to start the voting system. The script will prompt for the voter's Aadhar number, capture their image using the webcam, and verify their identity using facial recognition.
+     - Execute `face.py` to start the voting system. The script will prompt for the voter's Aadhar number, capture their image using the webcam, and verify their identity using facial recognition.
     
 ## Voting Process
   - If the voter's identity is verified and they have not voted yet, they will be prompted to press one of the buttons corresponding to different parties to cast their vote.
