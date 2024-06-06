@@ -32,8 +32,8 @@ pip install face_recognition opencv-python pandas RPi.GPIO
 ## Usage
 Installation and Cloning Project:
 ```
-git clone
-cd 
+git clone https://github.com/Jagadeeswar-reddy-c/Digital-Voting-System-Using-Raspberry-Pi.git
+cd Digital-Voting-System-Using-Raspberry-Pi
 ```
 
   1. Insert Voter Data:
